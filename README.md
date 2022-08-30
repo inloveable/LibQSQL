@@ -5,9 +5,10 @@
 ## This early version(v1.0 2022/8/30) provides with only a simple class that supports QSQLITE.
 ## If there is any bug,please inform me.
    My email-address:2574506617@qq.com.
-## I'm a independent developer,who would to my best to support this small library as far as can.
+## I'm an independent developer,who would to my best to support this small library as far as can.
     1.If there is anything you think worth doing,please Pull a request.
     2.If there is anywhere in the code you think worth improve,feel free to point them out.
     
 # Thank you!
+
    
