@@ -1,0 +1,8 @@
+G:/QtCodes/LibQSQL_R/LibQSql/build/CMakeFiles/LibQSql.dir
+G:/QtCodes/LibQSQL_R/LibQSql/build/CMakeFiles/edit_cache.dir
+G:/QtCodes/LibQSQL_R/LibQSql/build/CMakeFiles/rebuild_cache.dir
+G:/QtCodes/LibQSQL_R/LibQSql/build/CMakeFiles/list_install_components.dir
+G:/QtCodes/LibQSQL_R/LibQSql/build/CMakeFiles/install.dir
+G:/QtCodes/LibQSQL_R/LibQSql/build/CMakeFiles/install/local.dir
+G:/QtCodes/LibQSQL_R/LibQSql/build/CMakeFiles/LibQSql_autogen_timestamp_deps.dir
+G:/QtCodes/LibQSQL_R/LibQSql/build/CMakeFiles/LibQSql_autogen.dir
