@@ -4,6 +4,7 @@
 
 
 #include<map>
+#include <memory>
 #include<vector>
 #include<string>
 #include<list>
@@ -115,7 +116,7 @@ public:
 
 
    //provide you with the ability to access database with raw sql string.
-   bool execRawString(const QString& str);
+   std::shared_ptr<QSqlQuery> execRawString(const QString& str);
 
    const QString& getDatabaseName() const{return databaseName;};
 protected:
